@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 301;
-        int y = 20;
-        int bonus = x / y;
+        int price = 21;
+        int step = 20;
+        int bonus = price / step;
         System.out.println("Итоговый бонус:" + bonus);
     }
 }
